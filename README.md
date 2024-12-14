@@ -9,6 +9,6 @@ The inverse distance weighting (IDW) approach is also known as inverse distance-
 
 
 For references and more detailed:
-https://en.wikipedia.org/wiki/Inverse_distance_weighting#:~:text=Inverse%20distance%20weighting%20(IDW)%20is,available%20at%20the%20known%20points.
-https://pro.arcgis.com/en/pro-app/latest/help/analysis/geostatistical-analyst/how-inverse-distance-weighted-interpolation-works.htm
-https://gisgeography.com/inverse-distance-weighting-idw-interpolation/
+> https://en.wikipedia.org/wiki/Inverse_distance_weighting#:~:text=Inverse%20distance%20weighting%20(IDW)%20is,available%20at%20the%20known%20points.
+> https://pro.arcgis.com/en/pro-app/latest/help/analysis/geostatistical-analyst/how-inverse-distance-weighted-interpolation-works.htm
+> https://gisgeography.com/inverse-distance-weighting-idw-interpolation/
